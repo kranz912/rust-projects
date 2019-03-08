@@ -4,7 +4,7 @@
 //rand::Rng         -- random crate
 use  std::io;
 use  rand::Rng;
-//cmp               
+//cmp
 use  std::cmp::Ordering;
 //fn                -- function declaration
 //main              -- function name * main is the entry point of your program

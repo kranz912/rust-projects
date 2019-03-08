@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d659f85-8b2e-4cb4-a657-446d358791ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/guessthenumber/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/guessthenumber/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/.fingerprint/guessthenumber-a163f152de6a7566/bin-guessthenumber-a163f152de6a7566" beforeDir="false" afterPath="$PROJECT_DIR$/guessthenumber/target/debug/.fingerprint/guessthenumber-a163f152de6a7566/bin-guessthenumber-a163f152de6a7566" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/.fingerprint/guessthenumber-a163f152de6a7566/bin-guessthenumber-a163f152de6a7566.json" beforeDir="false" afterPath="$PROJECT_DIR$/guessthenumber/target/debug/.fingerprint/guessthenumber-a163f152de6a7566/bin-guessthenumber-a163f152de6a7566.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/deps/guessthenumber-a163f152de6a7566.exe" beforeDir="false" afterPath="$PROJECT_DIR$/guessthenumber/target/debug/deps/guessthenumber-a163f152de6a7566.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/deps/guessthenumber-a163f152de6a7566.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/guessthenumber/target/debug/deps/guessthenumber-a163f152de6a7566.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/guessthenumber.exe" beforeDir="false" afterPath="$PROJECT_DIR$/guessthenumber/target/debug/guessthenumber.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/guessthenumber.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/guessthenumber/target/debug/guessthenumber.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/11anv5g5ybbdcfr1.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/167qtapmhgakzj76.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/1thnfqtydfwavxe9.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/1xsnwomcwwduh2by.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/25utso2cuv7dbrom.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/2emkqjmacpy9mdnc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/2hq6mc2eqiwljbte.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/2ri035v5q92qj2i8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/2uwju9lee1nc953r.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/2yi999czg14rm17j.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/38o3aoqfrit0u3jl.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/3ajbewh1eitrf050.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/3ehwt89ozdtuxy26.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/3fo84pvatihqhhvz.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/3mp8c8tznncj42vq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/3pvtccgqatrrwvt8.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/3uf64n7w91p0bzyf.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/3y0iea22w7fdra45.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/3zgdtxwf8qi8hq3t.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/4dcs0nl6cfxthrdd.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/4m1zta9wiqrr08vk.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/4nkbr3etp1asagnj.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/4q2p73tr7j8myb9.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/546mfiisi1w4u7ia.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/57f2cemk0xx4r550.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/57icuah8s7apqanr.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/75d31ktnx0pgqez.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/b6owlymulklh52a.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/diny9989d359wyj.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/j2orky6v2ppx9go.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy-r4eu0h39k1cq/zxj76gni76gaa9.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/guessthenumber/target/debug/incremental/guessthenumber-jq7bzil3a8a2/s-fa5vz09cd6-1hojvpy.lock" beforeDir="false" />
-    </list>
+    <list default="true" id="1d659f85-8b2e-4cb4-a657-446d358791ba" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/guessthenumber/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -118,7 +75,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552074165156" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552074476723" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/guessthenumber" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
   </component>
@@ -166,7 +123,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="181" width="1400" height="844" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -180,7 +136,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -203,7 +159,7 @@
     <entry file="file://$PROJECT_DIR$/guessthenumber/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
