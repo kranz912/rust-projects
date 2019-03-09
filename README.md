@@ -1,7 +1,7 @@
 # Rust tutorial
 my path to learning rust
 ## Installing rustup on Linux or macOS
-If you are using linux or macOS, enter the following command to a terminal:
+If you are using **Linux** or **macOS**, enter the following command to a terminal:
 
 ```
 $ curl https://sh.rustup.rs -sSf | sh
@@ -24,7 +24,7 @@ $ rustup self uninstall
 ```
 
 ## Installing IDE
-I prefer using IntelliJ over Visual Studio Code.  
+I prefer using **IntelliJ** over **Visual Studio Code**.  
 ### IntelliJ Installation 
 Download and Install: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)  
 Install Rust plugin: [https://intellij-rust.github.io/](https://intellij-rust.github.io/)
