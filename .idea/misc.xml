@@ -2,8 +2,9 @@
 <project version="4">
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/guessthenumber/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/variables/Cargo.toml" />
   </component>
   <component name="RustProjectSettings">
-    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="toolchainHomeDirectory" value="$PROJECT_DIR$/../.cargo/bin" />
   </component>
 </project>

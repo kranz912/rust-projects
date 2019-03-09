@@ -7,7 +7,12 @@
       <sourceFolder url="file://$MODULE_DIR$/guessthenumber/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/guessthenumber/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/guessthenumber/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/variables/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/variables/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/variables/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/guessthenumber/target" />
+      <excludeFolder url="file://$MODULE_DIR$/variables/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
