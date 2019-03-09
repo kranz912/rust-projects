@@ -2,9 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d659f85-8b2e-4cb4-a657-446d358791ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/variables/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/.fingerprint/variables-988e359858c12d4e/bin-variables-988e359858c12d4e" beforeDir="false" afterPath="$PROJECT_DIR$/variables/target/debug/.fingerprint/variables-988e359858c12d4e/bin-variables-988e359858c12d4e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/.fingerprint/variables-988e359858c12d4e/bin-variables-988e359858c12d4e.json" beforeDir="false" afterPath="$PROJECT_DIR$/variables/target/debug/.fingerprint/variables-988e359858c12d4e/bin-variables-988e359858c12d4e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/deps/variables-988e359858c12d4e.exe" beforeDir="false" afterPath="$PROJECT_DIR$/variables/target/debug/deps/variables-988e359858c12d4e.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/deps/variables-988e359858c12d4e.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/variables/target/debug/deps/variables-988e359858c12d4e.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/1dlxitjn55g6l8ty.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/1xe6lh4j3uo13vd5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/2u59c0nkodofhozn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/3for1zevtl2cczwf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/4cvhyt02e6buy5al.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/4mx2eqcsdnly9hit.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/4mzw0c875c367ivn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/variables.exe" beforeDir="false" afterPath="$PROJECT_DIR$/variables/target/debug/variables.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/target/debug/variables.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/variables/target/debug/variables.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/variables/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="387">
+              <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -89,7 +105,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552100188119" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552100846236" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/variables" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
   </component>
@@ -191,8 +207,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/variables/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="387">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
         </state>
       </provider>
     </entry>
