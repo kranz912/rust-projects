@@ -18,7 +18,16 @@ To update:
 ```
 $ rustup update
 ```
-To uninstall
+To uninstall:
 ```
 $ rustup self uninstall
 ```
+
+## Installing IDE
+I prefer using IntelliJ over Visual Studio Code.  
+###IntelliJ Installation 
+Download and Install: https://www.jetbrains.com/idea/  
+Install Rust plugin: https://intellij-rust.github.io/
+
+### Visual Studio Code
+Download and Install: https://code.visualstudio.com/
