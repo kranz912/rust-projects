@@ -1,5 +1,5 @@
 # Rust tutorial
-my path to learning rust
+
 ## Installing rustup on Linux or macOS
 If you are using **Linux** or **macOS**, enter the following command to a terminal:
 
