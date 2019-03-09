@@ -17,24 +17,25 @@ fn main() {
     let _secret_number = rand::thread_rng().gen_range(1,101);
     loop{
         println!("Please input your guess");
-        //let           -- variable declaration
-        //mut           -- mutability indicates that a variable is mutable
-        //String::new() -- string declaration
+        //let           --  variable declaration
+        //mut           --  mutability indicates that a variable is mutable
+        //String::new() --  string declaration
         let mut guess = String::new();
-        //io::stdin     -- returns a instance of Stdin  a standard handler for the terminal
-        //read_line()   -- standard input handler for user input
-        //&mut guess    -- pass input value as a reference to guess variable
-        //expect()      -- error handler
+        //io::stdin     --  returns a instance of Stdin  a standard handler for the terminal
+        //read_line()   --  standard input handler for user input
+        //&mut guess    --  pass input value as a reference to guess variable
+        //expect()      --  error handler
         io::stdin().read_line(&mut guess).expect("failed to read line");
-        //trim          -- removes spaces at the str
-        //parse         -- converts str guess to unassigned int 32
+        //trim          --  removes spaces at the str
+        //parse         --  converts str guess to unassigned int 32
         let guess: u32 = match guess.trim().parse(){
-          Ok(num) => num,
+            //Ok()      --  will execute when parse to u32 is successful
+            Ok(num) => num,
+            //Err()     --  will execute when parse to u32 is unsuccessful
             Err(_) => continue,
         };
-
         println!("You guess: {}", guess);
-        //match                 --  compare two variables
+        //match                 --  compares result of a function
         //Ordering::Less        --  checks if A is less than B
         //Ordering::Greater     --  checks if A is greater than B
         //Ordering::Equal       --  checks if A is equal to B
