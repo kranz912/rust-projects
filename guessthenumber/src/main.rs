@@ -1,13 +1,14 @@
-//use               -- import function
-//std               -- standard library
-//io                -- input/output
-//rand::Rng         -- random crate
+//use               --  import function
+//std               --  standard library
+//io                --  input/output
+//rand::Rng         --  random crate
 use  std::io;
 use  rand::Rng;
-//cmp
+//cmp               --  c++ module for comparing values
+//Ordering          --  enum result of a comparison of two numbers
 use  std::cmp::Ordering;
-//fn                -- function declaration
-//main              -- function name * main is the entry point of your program
+//fn                --  function declaration
+//main              --  function name * main is the entry point of your program
 fn main() {
     //println! -- macro for printing to screen
     println!("Guess the number");
@@ -27,8 +28,10 @@ fn main() {
         io::stdin().read_line(&mut guess).expect("failed to read line");
         //trim          -- removes spaces at the str
         //parse         -- converts str guess to unassigned int 32
-        let guess: u32 = guess.trim().parse()
-            .expect("Please Type a Number");
+        let guess: u32 = match guess.trim().parse(){
+          Ok(num) => num,
+            Err(_) => continue,
+        };
 
         println!("You guess: {}", guess);
         //match                 --  compare two variables
