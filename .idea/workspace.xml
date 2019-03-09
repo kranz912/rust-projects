@@ -3,24 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1d659f85-8b2e-4cb4-a657-446d358791ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/variables/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/.fingerprint/variables-988e359858c12d4e/bin-variables-988e359858c12d4e" beforeDir="false" afterPath="$PROJECT_DIR$/variables/target/debug/.fingerprint/variables-988e359858c12d4e/bin-variables-988e359858c12d4e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/.fingerprint/variables-988e359858c12d4e/bin-variables-988e359858c12d4e.json" beforeDir="false" afterPath="$PROJECT_DIR$/variables/target/debug/.fingerprint/variables-988e359858c12d4e/bin-variables-988e359858c12d4e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/deps/variables-988e359858c12d4e.exe" beforeDir="false" afterPath="$PROJECT_DIR$/variables/target/debug/deps/variables-988e359858c12d4e.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/deps/variables-988e359858c12d4e.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/variables/target/debug/deps/variables-988e359858c12d4e.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/1dlxitjn55g6l8ty.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/1xe6lh4j3uo13vd5.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/2u59c0nkodofhozn.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/3for1zevtl2cczwf.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/4cvhyt02e6buy5al.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/4mx2eqcsdnly9hit.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/4mzw0c875c367ivn.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh-zn7607wpxoz2/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/incremental/variables-39ffugbh8kptj/s-fa68zfr2ly-lyhqwh.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/variables.exe" beforeDir="false" afterPath="$PROJECT_DIR$/variables/target/debug/variables.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables/target/debug/variables.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/variables/target/debug/variables.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +26,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/variables/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+            <state relative-caret-position="204">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="527">
+                <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -63,14 +62,14 @@
       <list>
         <option value="$PROJECT_DIR$/guessthenumber/src/main.rs" />
         <option value="$PROJECT_DIR$/variables/src/main.rs" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="181" />
-    <option name="width" value="1400" />
-    <option name="height" value="844" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -78,7 +77,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,7 +92,12 @@
             <path>
               <item name="projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="guessthenumber" type="462c0819:PsiDirectoryNode" />
+              <item name="hello_cargo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="hello_cargo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -102,10 +105,11 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552100846236" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552101559429" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/variables" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
   </component>
@@ -163,10 +167,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="181" width="1400" height="844" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18390192" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -175,7 +179,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32911393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -195,6 +199,16 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hello_cargo/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#10#11#0" expanded="true" />
+            <element signature="e#43#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hello_cargo/Cargo.toml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -207,10 +221,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/variables/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        <state relative-caret-position="204">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="527">
+            <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
