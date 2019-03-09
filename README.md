@@ -13,7 +13,7 @@ Rust is installed now. Great!
 ## Installing rustup on Windows
 https://www.rust-lang.org/install.html
 
-##Updating and Uninstalling
+## Updating and Uninstalling
 To update:
 ```
 $ rustup update
