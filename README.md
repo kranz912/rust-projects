@@ -12,7 +12,7 @@ If the installation is successful, the following line will appear:
 Rust is installed now. Great!
 ```
 ## Installing rustup on Windows
-https://www.rust-lang.org/install.html
+[https://www.rust-lang.org/install.html](https://www.rust-lang.org/install.html)
 
 ## Updating and Uninstalling
 To update:

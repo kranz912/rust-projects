@@ -1,1 +1,1 @@
-C:\Users\Kranz.nitronint\projects\variables\target\debug\variables.pdb: C:\Users\Kranz.nitronint\projects\variables\src\main.rs
+C:\Users\Kranz\Documents\GitHub\rust-projects\variables\target\debug\variables.pdb: C:\Users\Kranz\Documents\GitHub\rust-projects\variables\src\main.rs
