@@ -32,3 +32,42 @@ Install Rust plugin: [https://intellij-rust.github.io/](https://intellij-rust.gi
 
 ### Visual Studio Code
 Download and Install: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+  
+## Hello Cargo
+Cargo is the Rust build system and package manager. Cargo handles every task you can imagine, such as building your code, downloading libraries or dependencies, and building those libraries.  
+  
+To Check if cargo is installed:
+```
+$ cargo --version
+```
+If you see a version number, you have it!
+
+### Creating a project with Cargo
+Syntax:
+```
+cargo new <projectname>
+```
+
+```
+$ cargo new hello_cargo
+$ cd cargo
+```
+The first command creates a new directory call ***hello_cargo***. Navigate into the hello_cargo directory and list the files. You'll see that Cargo has two files and one directory.
+
+```
+    
+    ├── Cargo.toml              # Config file
+    ├── src                     # Source files
+    │   ├── main.rs             # rust default main function file
+```
+Filename Cargo.toml
+```toml
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+authors = ["Your Name <you@example.com>"]
+edition = "2018"
+
+[dependencies]
+```
