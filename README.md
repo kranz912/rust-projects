@@ -55,11 +55,10 @@ $ cd cargo
 ```
 The first command creates a new directory call ***hello_cargo***. Navigate into the hello_cargo directory and list the files. You'll see that Cargo has two files and one directory.
 
-```
-    
-    ├── Cargo.toml              # Config file
-    ├── src                     # Source files
-    │   ├── main.rs             # rust default main function file
+```    
+├── Cargo.toml     # Config file
+├── src            # Source files
+│   ├── main.rs    # rust default main function file
 ```
 Filename Cargo.toml
 ```toml
