@@ -48,7 +48,7 @@ Syntax:
 ```
 cargo new <projectname>
 ```
-
+Example: 
 ```
 $ cargo new hello_cargo
 $ cd cargo
@@ -71,3 +71,9 @@ edition = "2018"
 
 [dependencies]
 ```
+**[package]** start of package configuration
+
+**name** name of the package,
+**version** the version of the package, **authors** a collection of contributors or authors and **edition** indicates which edition should your code be compiled under.  
+**[dependencies]** indicated the start of dependencies list
+
