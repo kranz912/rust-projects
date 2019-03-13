@@ -60,7 +60,7 @@ The first command creates a new directory call ***hello_cargo***. Navigate into 
 ├── src            # Source files
 │   ├── main.rs    # rust default main function file
 ```
-Filename Cargo.toml
+Filename: Cargo.toml
 ```toml
 [package]
 name = "hello_cargo"
@@ -70,9 +70,27 @@ edition = "2018"
 
 [dependencies]
 ```
+This file is the configuration file for cargo which is in the **TOML** (*Tom’s Obvious, Minimal Language*)   
 **[package]** start of package configuration
 
 **name** name of the package,
 **version** the version of the package, **authors** a collection of contributors or authors and **edition** indicates which edition should your code be compiled under.  
 **[dependencies]** indicated the start of dependencies list
 
+Filename: src/main.rs
+```rust
+fn main() {
+    println!("Hello, world!");
+}
+```
+Cargo generates this file by default. Inside it you will see the main function
+```rust
+fn main() {
+
+}
+```
+The main function is a special function. It is the first code that runs in every executable rust program.  
+Inside the main function is the following code:
+```rust
+println!("Hello, world!");
+```
