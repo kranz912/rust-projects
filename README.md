@@ -94,3 +94,4 @@ Inside the main function is the following code:
 ```rust
 println!("Hello, world!");
 ```
+**println!** calls a Rust macro that will print text to the screen given an argument. For this instance the argument is "Hello, world", and the string is printed to the screen.
