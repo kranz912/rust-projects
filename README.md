@@ -1,4 +1,4 @@
-# Rust tutorial
+# The Rust Project
 Rust is a new open-source systems programming language created by Mozilla and a community of volunteers, designed to help developers create fast, secure applications which take full advantage of the powerful features of modern multi-core processors.(Mozilla.org)  
 
 ## Installing rustup on Linux or macOS
