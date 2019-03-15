@@ -95,3 +95,8 @@ Inside the main function is the following code:
 println!("Hello, world!");
 ```
 **println!** calls a Rust macro that will print text to the screen given an argument. For this instance the argument is "Hello, world", and the string is printed to the screen.
+
+## Variables
+### Immutable Variables
+* All variables are immutable by default
+* When a veriable is immutable once a value is assign
