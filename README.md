@@ -99,4 +99,13 @@ println!("Hello, world!");
 ## Variables
 ### Immutable Variables
 * All variables are immutable by default
-* When a veriable is immutable once a value is assign
+* When a variable is immutable once a value is assigned to it you can't change the value
+* You can declare a immutable variable and assign a value on it
+EX:
+```rust
+   let _x = 5;
+    let _y;
+        _y= 5;
+    println!("x: {}", _x);
+    println!("y: {}", _y);
+```
